@@ -31,6 +31,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"bootstrap": "^5.3.3"
+		"bootstrap": "^5.3.3",
+		"stores": "^1.0.0"
 	}
 }
